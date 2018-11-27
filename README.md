@@ -1,0 +1,2 @@
+# DJTEST
+Django test repo
