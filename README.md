@@ -1,2 +1,2 @@
-# DJTEST
-Django test repo
+# FLASK
+Flask test repo
